@@ -1,0 +1,78 @@
+16-03-2026
+==========
+1. Introduction
+2. Loops, Condition Statements
+3. Class and Object
+4. Data Structures(structural way of organising data)
+5. Stacks
+6. LT - 20
+7. Queues
+
+
+17-03-2026
+==========
+1. LT - 394
+2. Single Linked list
+3. Lt - 876
+4. Lt - 141
+5. Lt - 19
+6. LT - 206
+7. LT - 21
+
+
+18-03-2026
+==========
+1. Double Linked list
+2. Circular Linked list
+3. Tree
+4. Binary Tree Structures
+5. Traversal techniques(Inorder, Preorder, Postorder)
+6. LT - 94
+7. LT - 144
+8. LT - 145
+9. Binary Search tree Implementation
+10. Insert element into BST
+
+
+23-03-2026
+==========
+1. LT - 701
+2. LT - 450
+3. LT - 100
+4. LT - 700
+5. LT - 101
+6. LT - 226
+7. LT - 104
+8. LT - 111
+9. Graphs
+10. Adjacency matrix and list
+11. DFS, BFS concept
+
+
+24-03-2026
+==========
+1. DFS code
+2. BFS code
+3. LT - 102
+4. LT - 199
+5. LT - 236
+6. LT - 103
+7. LT - 107
+8. LT - 200
+9. LT - 130
+10. LT - 994
+11. LT - 547
+
+
+25-03-2026
+==========
+1. Linear Search
+2. Binary Search
+3. LT - 704
+4. Aggressive cows
+5. Bubble sort
+6. Selection sort
+7. Insertion sort
+8. Merge sort
+9. Quick sort
+10. LT - 75
