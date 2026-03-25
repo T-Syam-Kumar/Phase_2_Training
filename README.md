@@ -1,4 +1,4 @@
-# 🚀 Phase 2 Training – Data Structures & Algorithms
+#  Phase 2 Training – Data Structures & Algorithms
 
 ![Python](https://img.shields.io/badge/Language-Python-blue.svg)
 ![DSA](https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-green.svg)
