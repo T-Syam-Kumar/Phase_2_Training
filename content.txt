@@ -76,3 +76,5 @@
 8. Merge sort
 9. Quick sort
 10. LT - 75
+
+LT = Leetcode and question number
